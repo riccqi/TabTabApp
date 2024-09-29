@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TabTab</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sun, 29 Sep 2024 22:55:54 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab1.0.dmg" length="1343308" type="application/octet-stream" sparkle:edSignature="nL9/Rj5eu2yTB3DOx2GXLhdL3omThJgXft7X3pgyoYJ06019IjjvQ6eI9rJJVKqyhNmrySfTJeiYNqQjAAypCQ=="/>
+        </item>
+    </channel>
+</rss>
