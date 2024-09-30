@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://riccqi.github.io/TabTabApp/tabtab1.0.1.dmg" length="1302843" type="application/octet-stream" sparkle:edSignature="rCXDl7ZgYgSgoG9otA8y3Gb57bT7ZQcWR2h/BklN/QYr6WzpfjeQUGfiiXZDPeB26N9ike+br60EqkwxsSCxBQ=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab1.0.1.dmg" length="1302843" type="application/octet-stream" sparkle:edSignature="rCXDl7ZgYgSgoG9otA8y3Gb57bT7ZQcWR2h/BklN/QYr6WzpfjeQUGfiiXZDPeB26N9ike+br60EqkwxsSCxBQ=="/>
         </item>
     </channel>
 </rss>
