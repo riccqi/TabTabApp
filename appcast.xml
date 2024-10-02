@@ -3,12 +3,12 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Mon, 30 Sep 2024 18:01:15 +0800</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Thu, 03 Oct 2024 00:04:28 +0800</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab1.0.1.dmg" length="1303274" type="application/octet-stream" sparkle:edSignature="sSmOc272aCM1EuPvzRQF31eVQp5nXet55uIKpWBs7sfPiE+BVSrw192TK1GynyvByA4DiSgd+PMVsDxvlT0XAQ=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab1.0.2.dmg" length="2071736" type="application/octet-stream" sparkle:edSignature="79UBA0so6km49jcojxkJLfC7QZpYwPk4PKFHdmfnDC7p+iENK5iLIf28h/jqggbM3heKMGMHSmZ5b66d/zFCDg=="/>
         </item>
     </channel>
 </rss>
