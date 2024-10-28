@@ -4,14 +4,12 @@
         <title>TabTab</title>
         <item>
             <title>1.0.8</title>
-            <pubDate>Mon, 28 Oct 2024 22:29:48 +0900</pubDate>
-            <sparkle:version>33</sparkle:version>
+            <pubDate>Tue, 29 Oct 2024 02:43:37 +0900</pubDate>
+            <sparkle:version>34</sparkle:version>
             <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3374307" type="application/octet-stream" sparkle:edSignature="qKuduASvdUl+TMEELRd3Fqe6rBYvhM+XjhBEKyzA/cXnlx68uLkfJcvzeQ9WWy/dao5V8tCzXJxKbODzgBLFDg=="/>
-
-		<description><![CDATA[
-                <h2>Release Notes</h2>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3373724" type="application/octet-stream" sparkle:edSignature="Jz0Pcdi2zvpHRVPz0qAS4mEde2X6Wm3N+/e5k/ELYxKJA4qZWB8XTST2TGaibfM3tKi4j0OBL8uctgXOopx1AA=="/>
+<h2>Release Notes</h2>
                 <ul>
                     <li>Improved tab tracking for non-English system languages</li>
                     <li>Add settings to ignore tab tracking for tab-supported apps (and added a complete “windows mode”)</li>
@@ -19,9 +17,8 @@
                     <li>Made Chrome tab display cleaner</li>
                     <li>Holding Tab down while Tab Bar is out now automatically cycles through the tabs</li>
                     <li>Stability and edge case fixes to tab tracking</li>
-                    <li>Fix Discord join link in the settings</li>
+                    <li>Update Discord invite link in the settings</li>
                 </ul>
-            ]]></description>
         </item>
     </channel>
 </rss>
