@@ -3,12 +3,23 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>1.0.7</title>
-            <pubDate>Wed, 23 Oct 2024 19:47:10 +0800</pubDate>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <title>1.0.8</title>
+            <pubDate>Mon, 28 Oct 2024 22:29:48 +0900</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3345995" type="application/octet-stream" sparkle:edSignature="vKrZ/ARklGTCpnpWQ+AfKzDMzS+IPkTQlIPA0BunIh+bQPvt48x6YqZNbA/xLnkJK/ycs4ZUr1EcBbzSH/m5Dw=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3374307" type="application/octet-stream" sparkle:edSignature="qKuduASvdUl+TMEELRd3Fqe6rBYvhM+XjhBEKyzA/cXnlx68uLkfJcvzeQ9WWy/dao5V8tCzXJxKbODzgBLFDg=="/>
+
+		<description><![CDATA[
+                <h2>Release Notes</h2>
+                <ul>
+                    <li>Improved tab tracking for non-English system languages</li>
+                    <li>Add settings to ignore tab tracking for tab-supported apps (and added a complete “windows mode”)</li>
+                    <li>Ability to hide menu bar icon</li>
+                    <li>Made Chrome tab display cleaner</li>
+                    <li>Stability and edge case fixes to tab tracking</li>
+                </ul>
+            ]]></description>
         </item>
     </channel>
 </rss>
