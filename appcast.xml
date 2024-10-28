@@ -17,6 +17,7 @@
                     <li>Add settings to ignore tab tracking for tab-supported apps (and added a complete “windows mode”)</li>
                     <li>Ability to hide menu bar icon</li>
                     <li>Made Chrome tab display cleaner</li>
+                    <li>Holding Tab down while Tab Bar is out now automatically cycles through the tabs</li>
                     <li>Stability and edge case fixes to tab tracking</li>
                     <li>Fix Discord join link in the settings</li>
                 </ul>
