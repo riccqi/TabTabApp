@@ -2,36 +2,34 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>TabTab</title>
-        
         <item>
-            <title>1.0.9</title>
-            <pubDate>Tue, 29 Oct 2024 18:35:40 +0900</pubDate>
-            <sparkle:version>36</sparkle:version>
-            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <title>1.1</title>
+            <pubDate>Wed, 20 Nov 2024 12:11:13 +0800</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:criticalUpdate/>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" 
-                       length="3374256" 
-                       type="application/octet-stream" 
-                       sparkle:edSignature="esMo6aRpdMjSxku40B+xLnfAMQ6TfCPhqZsfXfopiSwPhyAiGt7N34VSyNsRQfr57mrfVmEzinCctF0n3kgmAQ=="/>
-            <description><![CDATA[
-                <h2>Release Notes 1.0.9</h2>
-                <h3 style="color: red;">Critical Fix</h3>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3415416" type="application/octet-stream" sparkle:edSignature="LaE9lBjfKrvGVJ3snh4AsWpyqCP4IxesR6cZaDBXY+p/vOY15E6xr+tL8h6mxDGDMwAbQUTAvHI/KxbRmOkIAA=="/>
+<description><![CDATA[
+                <h2>Release Notes 1.1</h2>
+                <h3>Major Updates</h3>
                 <ul>
-                    <li><strong>Fix critical bug with tab tracking</strong></li>
+                    <li><strong>Significant speed and stability improvements</strong> – The Tab Bar now performs much faster and smoother, even with a large number of tabs.</li>
+                    <li><strong>Enhanced animations</strong> – The Tab Bar's presentation animations are now more fluid and responsive.</li>
                 </ul>
-                <h3>Improvements in 1.0.8</h3>
+                <h3>Bug Fixes</h3>
                 <ul>
-                    <li>Improved tab tracking for non-English system languages</li>
-                    <li>Added settings to ignore tab tracking for tab-supported apps (and added a complete “windows mode”)</li>
-                    <li>Added option to hide menu bar icon</li>
-                    <li>Made Chrome tab display cleaner</li>
-                    <li>Holding Tab down while Tab Bar is out now automatically cycles through the tabs</li>
-                    <li>Stability fixes to tab tracking</li>
-                    <li>Updated Discord invite link in the settings</li>
+                    <li>Resolved tab tracking issues with Chrome and Safari.</li>
+                </ul>
+                <h3>New Features</h3>
+                <ul>
+                    <li>Improved tab tracking support for additional languages: Chinese, Traditional Chinese, Polish, and Japanese.</li>
+                    <li>Added compatibility with beta versions of Chrome, Firefox, and VS Code for tab tracking.</li>
+                </ul>
+                <h3>Refinements</h3>
+                <ul>
+                    <li>Numerous UI improvements for a more polished user experience.</li>
                 </ul>
             ]]></description>
         </item>
-        
     </channel>
 </rss>
