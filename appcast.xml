@@ -3,17 +3,18 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>1.1.1</title>
-            <pubDate>Thu, 21 Nov 2024 23:02:37 +0800</pubDate>
-            <sparkle:version>46</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <title>1.1.2</title>
+            <pubDate>Fri, 22 Nov 2024 02:54:09 +0800</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3427735" type="application/octet-stream" sparkle:edSignature="qLz9HdKAUxsrC6e/yaDkFnKj5wnDK9/dsivd42zzm4eSQYwceLebPkkZM6YLkXUi26n+4BKw0woD/5o/keW5CA=="/>
+            <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3428089" type="application/octet-stream" sparkle:edSignature="oCpN78j3d3Lk/YWyPakvLKwE9Kjzc9P42XRrxUWQHmln29ijM7Xb/5gWfcq9dRUJfstDNSpgPvZiaQ3X0hJEBg=="/>
             <description><![CDATA[
-                <h2>Release Notes 1.1.1</h2>
+                <h2>Release Notes 1.1.2</h2>
                 <h3>Bug Fixes & Improvements</h3>
                 <ul>
-                    <li><strong>Critical Fix:</strong> Resolved issue where Tab Bar would sometimes not appear.</li>
+                    <li><strong>Critical Fix:</strong> Resolved issue where Tab Bar would sometimes not appear or disappear.</li>
                     <li>Enhanced support for multiple window handling.</li>
                     <li>Various minor bug fixes and stability improvements.</li>
                 </ul>
