@@ -3,13 +3,21 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Wed, 20 Nov 2024 12:11:13 +0800</pubDate>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>1.1.1</title>
+            <pubDate>Thu, 21 Nov 2024 23:02:37 +0800</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3415416" type="application/octet-stream" sparkle:edSignature="LaE9lBjfKrvGVJ3snh4AsWpyqCP4IxesR6cZaDBXY+p/vOY15E6xr+tL8h6mxDGDMwAbQUTAvHI/KxbRmOkIAA=="/>
-<description><![CDATA[
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3427735" type="application/octet-stream" sparkle:edSignature="qLz9HdKAUxsrC6e/yaDkFnKj5wnDK9/dsivd42zzm4eSQYwceLebPkkZM6YLkXUi26n+4BKw0woD/5o/keW5CA=="/>
+            <description><![CDATA[
+                <h2>Release Notes 1.1.1</h2>
+                <h3>Bug Fixes & Improvements</h3>
+                <ul>
+                    <li><strong>Critical Fix:</strong> Resolved issue where Tab Bar would sometimes not appear.</li>
+                    <li>Enhanced support for multiple window handling.</li>
+                    <li>Various minor bug fixes and stability improvements.</li>
+                </ul>
+
                 <h2>Release Notes 1.1</h2>
                 <h3>Major Updates</h3>
                 <ul>
