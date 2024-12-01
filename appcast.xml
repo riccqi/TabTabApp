@@ -3,40 +3,29 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>1.1.2</title>
-            <pubDate>Fri, 22 Nov 2024 02:54:09 +0800</pubDate>
-            <sparkle:version>47</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <title>1.2</title>
+            <pubDate>Sun, 01 Dec 2024 23:52:12 +0800</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:criticalUpdate></sparkle:criticalUpdate>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3428089" type="application/octet-stream" sparkle:edSignature="oCpN78j3d3Lk/YWyPakvLKwE9Kjzc9P42XRrxUWQHmln29ijM7Xb/5gWfcq9dRUJfstDNSpgPvZiaQ3X0hJEBg=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3502343" type="application/octet-stream" sparkle:edSignature="o6+EsWzTV0az5+JyB+FUDjK1X/vlCblT3ltGjNPsnhIrm8dqASply/B1qeC0CBQ8K1wXIeJ80Z1bm4RJvcacCQ=="/>
             <description><![CDATA[
-                <h2>Release Notes 1.1.2</h2>
-                <h3>Bug Fixes & Improvements</h3>
+                <h2>Release Notes 1.2</h2>
+                <h3>New Features</h3>
                 <ul>
-                    <li><strong>Critical Fix:</strong> Resolved issue where Tab Bar would sometimes not appear or disappear.</li>
-                    <li>Enhanced support for multiple window handling.</li>
-                    <li>Various minor bug fixes and stability improvements.</li>
-                </ul>
-
-                <h2>Release Notes 1.1</h2>
-                <h3>Major Updates</h3>
-                <ul>
-                    <li><strong>Significant speed and stability improvements</strong> – The Tab Bar now performs much faster and smoother, even with a large number of tabs.</li>
-                    <li><strong>Enhanced animations</strong> – The Tab Bar's presentation animations are now more fluid and responsive.</li>
+                    <li><strong>Customizable Tab Bar Position:</strong> Choose where your tab bar appears – left side (default), center, or right side.</li>
+                    <li><strong>Quick Search Mode:</strong> New option to open tab bar with search immediately activated, including custom keybind support. (Default is CMD+K)</li>
+                    <li><strong>More Apps with Tab Support:</strong> Added support for Notion, Brave Browser, and Microsoft Edge.</li>
+                    <li><strong>App Filtering:</strong> New ability to ignore specific apps with improved reliability.</li>
+                    <li><strong>Quick App Termination:</strong> Hover over tabs and use CMD+Q to quickly quit applications.</li>
+                    <li><strong>Expanded Language Support:</strong> Better support for French, German, Korean, Spanish, Arabic, and Chinese (Hong Kong).</li>
                 </ul>
                 <h3>Bug Fixes</h3>
                 <ul>
-                    <li>Resolved tab tracking issues with Chrome and Safari.</li>
-                </ul>
-                <h3>New Features</h3>
-                <ul>
-                    <li>Improved tab tracking support for additional languages: Chinese, Traditional Chinese, Polish, and Japanese.</li>
-                    <li>Added compatibility with beta versions of Chrome, Firefox, and VS Code for tab tracking.</li>
-                </ul>
-                <h3>Refinements</h3>
-                <ul>
-                    <li>Numerous UI improvements for a more polished user experience.</li>
+                    <li>Comestic improvements to the Tab Bar.</li>
+                    <li>Fixed persistent issue with windows disappearing unexpectedly.</li>
+                    <li>Resolved problems where tab bar wouldn't respond to hotkey activation.</li>
+                    <li>Some stability improvements and minor bug fixes.</li>
                 </ul>
             ]]></description>
         </item>
