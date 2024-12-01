@@ -13,8 +13,8 @@
                 <h2>Release Notes 1.2</h2>
                 <h3>New Features</h3>
                 <ul>
-                    <li><strong>Customizable Tab Bar Position:</strong> Choose where your tab bar appears – left side (default), center, or right side.</li>
-                    <li><strong>Quick Search Mode:</strong> New option to open tab bar with search immediately activated, including custom keybind support. (Default is CMD+K)</li>
+                    <li><strong>Customizable Tab Bar Position:</strong> Choose where your Tab Bar appears – left side (default), center, or right side.</li>
+                    <li><strong>Quick Search Mode:</strong> New option to open Tab Bar with search immediately activated, including custom keybind support (Default is CMD+K).</li>
                     <li><strong>More Apps with Tab Support:</strong> Added support for Notion, Brave Browser, and Microsoft Edge.</li>
                     <li><strong>App Filtering:</strong> New ability to ignore specific apps with improved reliability.</li>
                     <li><strong>Quick App Termination:</strong> Hover over tabs and use CMD+Q to quickly quit applications.</li>
@@ -23,8 +23,8 @@
                 <h3>Bug Fixes</h3>
                 <ul>
                     <li>Comestic improvements to the Tab Bar.</li>
-                    <li>Fixed persistent issue with windows disappearing unexpectedly.</li>
-                    <li>Resolved problems where tab bar wouldn't respond to hotkey activation.</li>
+                    <li>Fixed occasional issue of windows disappearing unexpectedly.</li>
+                    <li>Resolved problems where the Tab Bar wouldn't respond to hotkey activation.</li>
                     <li>Some stability improvements and minor bug fixes.</li>
                 </ul>
             ]]></description>
