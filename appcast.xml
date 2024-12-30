@@ -34,7 +34,7 @@
                         <li>Fixed crashes affecting some users</li>
                         <li>Improved Firefox tab tracking reliability</li>
                         <li>Enhanced VSCode split view tab tracking</li>
-                        <li>Fixed low resolution center Tab Bar on certain monitors</li>
+                        <li>Fixed low resolution center tab bar on certain monitors</li>
                         <li>Improved CMD+Q reliability</li>
                         <li>Fixed missing apps in settings app list</li>
                     </ul>
