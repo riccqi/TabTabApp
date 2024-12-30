@@ -3,40 +3,43 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>1.3</title>
-            <pubDate>Thu, 12 Dec 2024 00:49:16 +0800</pubDate>
-            <sparkle:version>57</sparkle:version>
-            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <title>1.3.1</title>
+            <pubDate>Mon, 30 Dec 2024 22:44:34 +0800</pubDate>
+            <sparkle:version>63</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3589147" type="application/octet-stream" sparkle:edSignature="6ugx/Bjgwj9ArEnrgVa/Wk14Sw1QpjLDI+yI55n3v0ygbiilivS+3HSfn6MItxXWQTZptK7YzgZ5+snYuiz3Aw=="/>
-            <description><![CDATA[
-                            <h2>Release Notes 1.3</h2>
-                            <h3>New Features</h3>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3578279" type="application/octet-stream" sparkle:edSignature="sfG0C35NtCnx+z3kVAz454/GKa7vl1HVVS6k1dcrgsfKFg6HcISER+uf/0cGVLoJvkAIrH+jtcPvNX6i2tUYAQ=="/>
+            <description>
+                <![CDATA[
+                    <h2>Release Notes 1.3.1</h2>
+                    <h3>New Features</h3>
+                    <ul>
+                        <li><strong>Mouse Activation:</strong> New option in settings to activate tab bar by moving mouse to screen edge</li>
+                        <li><strong>Tab Bar Visual Improvements:</strong>
                             <ul>
-                                <li><strong>Multiline Window Titles:</strong> New toggle in settings to make window titles multiline by hiding the app name.</li>
-                                <li><strong>Improved Focus Behavior:</strong> Keyboard focus now consistently follows window switches.</li>
-                                <li><strong>Enhanced Hover Behavior:</strong> Cursor hovering now aligns with default macOS app switcher behavior.</li>
-                                <li><strong>Quick Search Updates:</strong>
-                                    <ul>
-                                        <li>Default keybind changed to CMD+SHIFT+K to reduce conflicts</li>
-                                        <li>Added option to disable quick search completely</li>
-                                    </ul>
-                                </li>
-                                <li><strong>Navigation Improvements:</strong>
-                                    <ul>
-                                        <li>New animations when reaching scroll limits</li>
-                                        <li>Added backward navigation using ` key (above tab)</li>
-                                    </ul>
-                                </li>
+                                <li>Added glow effect around tab bar for better contrast on dark backgrounds</li>
+                                <li>Improved tab bar dismissal animations</li>
                             </ul>
-                            <h3>Bug Fixes</h3>
+                        </li>
+                        <li><strong>Enhanced Settings:</strong>
                             <ul>
-                                <li>Resolved Safari full screen tab tracking issues</li>
-                                <li>Improved Traditional Chinese language support</li>
-                                <li>Improved window toggling across different desktops</li>
-                                <li>Various stability improvements and bug fixes</li>
+                                <li>Added ability to deactivate license key</li>
+                                <li>Improved license view interface</li>
                             </ul>
-                        ]]></description>
+                        </li>
+                        <li><strong>Improved Onboarding:</strong> Added new screens to help users get started</li>
+                    </ul>
+                    <h3>Bug Fixes</h3>
+                    <ul>
+                        <li>Fixed crashes affecting some users</li>
+                        <li>Improved Firefox tab tracking reliability</li>
+                        <li>Enhanced VSCode split view tab tracking</li>
+                        <li>Fixed low resolution center Tab Bar on certain monitors</li>
+                        <li>Improved CMD+Q reliability</li>
+                        <li>Fixed missing apps in settings app list</li>
+                    </ul>
+                ]]>
+            </description>
         </item>
     </channel>
 </rss>
