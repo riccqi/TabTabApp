@@ -3,43 +3,41 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>1.3.1</title>
-            <pubDate>Mon, 30 Dec 2024 22:44:34 +0800</pubDate>
-            <sparkle:version>63</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <title>1.3.2</title>
+            <pubDate>Sun, 26 Jan 2025 17:22:10 +0800</pubDate>
+            <sparkle:version>69</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3578279" type="application/octet-stream" sparkle:edSignature="sfG0C35NtCnx+z3kVAz454/GKa7vl1HVVS6k1dcrgsfKFg6HcISER+uf/0cGVLoJvkAIrH+jtcPvNX6i2tUYAQ=="/>
-            <description>
-                <![CDATA[
-                    <h2>Release Notes 1.3.1</h2>
-                    <h3>New Features</h3>
-                    <ul>
-                        <li><strong>Mouse Activation:</strong> New option in settings to activate tab bar by moving mouse to screen edge</li>
-                        <li><strong>Tab Bar Visual Improvements:</strong>
-                            <ul>
-                                <li>Added glow effect around tab bar for better contrast on dark backgrounds</li>
-                                <li>Improved tab bar dismissal animations</li>
-                            </ul>
-                        </li>
-                        <li><strong>Enhanced Settings:</strong>
-                            <ul>
-                                <li>Added ability to deactivate license key</li>
-                                <li>Improved license view interface</li>
-                            </ul>
-                        </li>
-                        <li><strong>Improved Onboarding:</strong> Added new screens to help users get started</li>
-                    </ul>
-                    <h3>Bug Fixes</h3>
-                    <ul>
-                        <li>Fixed crashes affecting some users</li>
-                        <li>Improved Firefox tab tracking reliability</li>
-                        <li>Enhanced VSCode split view tab tracking</li>
-                        <li>Fixed low resolution center tab bar on certain monitors</li>
-                        <li>Improved CMD+Q reliability</li>
-                        <li>Fixed missing apps in settings app list</li>
-                    </ul>
-                ]]>
-            </description>
+            <description><![CDATA[
+                <h2>What's New in TabTab 1.3.2:</h2>
+                <ul>
+                    <li>Right-click on tabs to access secondary actions, including adding apps to ignore list</li>
+                    <li>Completely revamped app settings page</li>
+                    <li>Improved performance: smoother operation and faster app switching</li>
+                    <li>New features:
+                        <ul>
+                            <li>Option to disable default hotkeys (opt/cmd tab) and use quick search only</li>
+                            <li>Close individual windows with cmd+w</li>
+                            <li>Ability to ignore specific apps when mouse activation is enabled</li>
+                        </ul>
+                    </li>
+                    <li>Bug fixes:
+                        <ul>
+                            <li>Fixed Chrome's "find in page" window interference</li>
+                            <li>Fixed Safari not closing properly with cmd+q</li>
+                            <li>Fixed various crashes</li>
+                            <li>Fixed issues for non-English users</li>
+                        </ul>
+                    </li>
+                    <li>Improvements:
+                        <ul>
+                            <li>Enhanced mouse activation sensitivity</li>
+                            <li>Added support for English app name search for non-English users</li>
+                        </ul>
+                    </li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3658824" type="application/octet-stream" sparkle:edSignature="y/jkabRDcXH/WxSQ1mJCHU8eivRJSJS4t5/V5GiV50tAwiYuhbrQFjpX2mJtVNW0GJCRTJEpcEoYYHEQKeDDAA=="/>
         </item>
     </channel>
 </rss>
