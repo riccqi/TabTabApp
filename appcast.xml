@@ -15,19 +15,15 @@
                         <ul>
                             <li>Added advanced regex filters for ignoring specific app and window/tab names</li>
                             <li>TabTab should feel snappier and more responsive in general</li>
-                        </ul>
-                    </li>
-                    <li>Language improvements:
-                        <ul>
                             <li>Added Portuguese and Dutch language support</li>
-                            <li>Much better tab identification for non-English language tabs</li>
                         </ul>
                     </li>
                     <li>Bug fixes:
                         <ul>
-                            <li>Fixed critical bug that caused some users to not be able to switch between Chrome tabs</li>
-                            <li>Fixed critical bug that caused TabTab to crash on some systems</li>
-                            <li>TabTab will now switch you to the newest tab instead of the earliest when you have tabs with the same name</li>
+                            <li>Much better tab identification for non-English language tabs (thanks Fly)</li>
+                            <li>Fixed critical bug that caused some users to not be able to switch between Chrome tabs (thanks Coline)</li>
+                            <li>Fixed critical bug that caused TabTab to crash on some systems (thanks Curtis, Alvin, Benjamin)</li>
+                            <li>TabTab will now switch you to the newest tab instead of the earliest when you have tabs with the same name (thanks Sampo)</li>
                         </ul>
                     </li>
                     
