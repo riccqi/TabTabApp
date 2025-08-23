@@ -19,22 +19,23 @@
                 <ul>
                     <li>Many users have said that TabTab doesn't fit naturally into their existing workflows. This feature is a step towards making TabTab more natural to use.</li>
                     <li>Tabs are now grouped by default, according to their window. You can click on the number to the right of the tab to see all other tabs in that same window.</li>
-                    <li>You can also use the keyboard left and right arrows to navigate in and out of the new grouped tabs page</li>
-                    <li>You can turn this off in settings to display all tabs at the same time</li>
+                    <li>When you start searching, TabTab shows all relevant tabs, regardless of their tab groups.</li>
+                    <li>You can also use the left and right arrows to navigate in and out of the new grouped tabs page.</li>
+                    <li>You can turn this off in settings to display all tabs at the same time.</li>
                 </ul>
                 
                 <h3>👨‍🔧 Improved Tab Tracking Reliability</h3>
                 <ul>
-                    <li>Significantly improved tab tracking for many popular browsers: Google Chrome, Safari, Brave, Microsoft Edge</li>
+                    <li>Significantly improved tab tracking for many popular browsers: Google Chrome, Safari, Brave, Microsoft Edge.</li>
                     <li>Arc browser support (finally!!)</li>
                     <li>Browser favicons are now shown for these browsers in grouped tab mode</li>
-                    <li>Much improved search, with URL support for these browsers</li>
+                    <li>You can now search for tabs by their URL in these browsers</li>
                 </ul>
                 
                 <h3>👾 Other Big Improvements</h3>
                 <ul>
-                    <li>Tabs are now registered upon startup of the app, you no longer have to click on them before they get added to TabTab</li>
-                    <li>TabTab now also acts as an app launcher, when you search for apps that are not yet registered by TabTab</li>
+                    <li>All tabs are now registered on startup, you no longer have to click on them before they get added to TabTab.</li>
+                    <li>TabTab now doubles as an app launcher when you search for apps that aren’t yet registered.</li>
                     <li>Redesigned onboarding flow</li>
                     <li>Redesigned settings</li>
                     <li>New option in settings to increase width of TabTab</li>
