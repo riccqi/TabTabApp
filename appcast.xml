@@ -16,8 +16,8 @@
                 <p>TabTab has a new look to better align with macOS 26. Redesigned icon and website at <a href="https://tabtabapp.net">tabtabapp.net</a></p>
                 
                 <h3>📂 Tabs Grouped by Windows</h3>
+                <p>Many users have said that TabTab doesn't fit naturally into their existing workflows. This feature is a step towards making TabTab more natural to use.</p>
                 <ul>
-                    <li>Many users have said that TabTab doesn't fit naturally into their existing workflows. This feature is a step towards making TabTab more natural to use.</li>
                     <li>Tabs are now grouped by default, according to their window. You can click on the number to the right of the tab to see all other tabs in that same window.</li>
                     <li>When you start searching, TabTab shows all relevant tabs, regardless of their tab groups.</li>
                     <li>You can also use the left and right arrows to navigate in and out of the new grouped tabs page.</li>
