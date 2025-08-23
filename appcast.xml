@@ -4,8 +4,8 @@
         <title>TabTab</title>
         <item>
             <title>2.0</title>
-            <pubDate>Sat, 23 Aug 2025 17:12:29 +0800</pubDate>
-            <sparkle:version>25</sparkle:version>
+            <pubDate>Sat, 23 Aug 2025 18:19:41 +0800</pubDate>
+            <sparkle:version>80</sparkle:version>
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -57,7 +57,6 @@
                 <p>Feel free to join our Discord community at <a href="https://discord.gg/Rpm76NdN5J">https://discord.gg/Rpm76NdN5J</a></p>
                 <p>Thank you again for using TabTab!</p>
             ]]></description>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="65821399" type="application/octet-stream" sparkle:edSignature="SC78pPZ9o2yd2Q+KyStgIH4i1FXymk0UMPNqppOV422dHq3EeWbhZgcDCDnkZYi6DBc3jLRppqyX4BDj13N2DA=="/>
-        </item>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="65820729" type="application/octet-stream" sparkle:edSignature="ILLKsTaP1rWK3UuGMptHQP6sPCb0Jg3MieLE4FT86u01mA8A3HuCgi0sP5ovpAGkNV4/fG93VOso3PXFvA+tDg=="/>        </item>
     </channel>
 </rss>
