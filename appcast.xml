@@ -3,33 +3,51 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>1.3.4</title>
-            <pubDate>Sat, 12 Apr 2025 18:39:41 +0800</pubDate>
-            <sparkle:version>77</sparkle:version>
-            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
+            <title>2.0</title>
+            <pubDate>Sat, 23 Aug 2025 17:12:29 +0800</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h2>TabTab 1.3.3 and 1.3.4 Stability Updates</h2>
+                <h2>TabTab 2.0 - Major Update</h2>
+                <p><strong>Free update for all users.</strong> It's a big one!</p>
+                
+                <h3>🎨 Fresh New Look</h3>
+                <p>TabTab has a new look to better align with macOS 26. Redesigned icon and website at <a href="https://tabtabapp.net">tabtabapp.net</a></p>
+                
+                <h3>📂 Grouped Tabs for Natural Workflow Integration</h3>
                 <ul>
-                    <li>New features:
-                        <ul>
-                            <li>Added advanced regex filters for ignoring specific app and window/tab names</li>
-                            <li>TabTab should feel snappier and more responsive in general</li>
-                            <li>Added Portuguese and Dutch language support</li>
-                        </ul>
-                    </li>
-                    <li>Bug fixes:
-                        <ul>
-                            <li>Much better tab identification for non-English language tabs (thanks Fly)</li>
-                            <li>Fixed critical bug that caused some users to not be able to switch between Chrome tabs (thanks Coline)</li>
-                            <li>Fixed critical bug that caused TabTab to crash on some systems (thanks Curtis, Alvin, Benjamin)</li>
-                            <li>TabTab will now switch you to the newest tab instead of the earliest when you have tabs with the same name (thanks Sampo)</li>
-                        </ul>
-                    </li>
-                    
+                    <li>Tabs are now grouped by default, according to their window. You can click on the number to the right of the tab to see all other tabs in that same window.</li>
+                    <li>You can also use the keyboard left and right arrows to navigate in and out of the new grouped tabs page</li>
+                    <li>You can turn this off in settings to display all tabs at the same time</li>
+                </ul>
+                
+                <h3>🔧 Improved Tab Reliability</h3>
+                <ul>
+                    <li>Significantly improved tab tracking for many popular browsers: Google Chrome, Safari, Brave, MicrosoftEdge</li>
+                    <li>Arc browser support (finally!!)</li>
+                    <li>Browser favicons are now shown for the above browsers in grouped tab mode</li>
+                    <li>Much improved search, with URL support for these browsers</li>
+                </ul>
+                
+                <h3>⚡ Other Improvements</h3>
+                <ul>
+                    <li>Tabs are now registered upon startup of the app, you no longer have to click on them before they get added to TabTab</li>
+                    <li>Redesigned onboarding flow</li>
+                    <li>Redesigned settings</li>
+                    <li>New option in settings to increase width of TabTab</li>
+                </ul>
+                
+                <h3>🐛 Bug Fixes</h3>
+                <ul>
+                    <li>Search box sometimes not getting focused when TabTab is presented</li>
+                    <li>Block notification center from appearing for users using non-English system</li>
+                    <li>Fix CMD+Q and CMD+W to quit apps and windows not working for some users</li>
+                    <li>Fix input into search bar that requires IME confirmation box</li>
+                    <li>Many more bug fixes</li>
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="3715255" type="application/octet-stream" sparkle:edSignature="9J+pRD05QUl6gtrCiS0r2sMbe3rAMaCviliIptwj2QbsFAOmIkJLI1HSkj/b7BaPTycDvivsaJ4gSRdttpd7Bw=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="65821399" type="application/octet-stream" sparkle:edSignature="SC78pPZ9o2yd2Q+KyStgIH4i1FXymk0UMPNqppOV422dHq3EeWbhZgcDCDnkZYi6DBc3jLRppqyX4BDj13N2DA=="/>
         </item>
     </channel>
 </rss>
