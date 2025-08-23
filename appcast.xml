@@ -10,11 +10,10 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>TabTab 2.0 - The Biggest Update Yet</h2>
-                <p>Free update for all users. It's a big one!</p>
+                <p>This is a free update for all users.</p>
                 
                 <h3>🎨 Fresh New Look</h3>
                 <p>TabTab has a new look to better align with macOS 26. Redesigned icon and website at <a href="https://tabtabapp.net">tabtabapp.net</a></p>
-                <br>
                 
                 <h3>📂 Tabs Grouped by Windows</h3>
                 <ul>
@@ -24,7 +23,7 @@
                     <li>You can turn this off in settings to display all tabs at the same time</li>
                 </ul>
                 
-                <h3>🔧 Improved Tab Tracking Reliability</h3>
+                <h3>👨‍🔧 Improved Tab Tracking Reliability</h3>
                 <ul>
                     <li>Significantly improved tab tracking for many popular browsers: Google Chrome, Safari, Brave, Microsoft Edge</li>
                     <li>Arc browser support (finally!!)</li>
@@ -32,7 +31,7 @@
                     <li>Much improved search, with URL support for these browsers</li>
                 </ul>
                 
-                <h3>⚡ Other Big Improvements</h3>
+                <h3>👾 Other Big Improvements</h3>
                 <ul>
                     <li>Tabs are now registered upon startup of the app, you no longer have to click on them before they get added to TabTab</li>
                     <li>TabTab now also acts as an app launcher, when you search for apps that are not yet registered by TabTab</li>
@@ -52,8 +51,11 @@
                 
                 <br>
                 <h3>❤️ Thank You</h3>
-                <p>Thank you to all users for your patience and for writing in with feedback! This has helped massively with the improvements in this release. Since TabTab isn't available on the Apple App Store, natural organic reviews on subreddits and across the internet help massively with TabTab's development and reach. Please consider spreading the word about TabTab if you find it useful!</p>
-                <p>Feel free to join our Discord community at <a href="https://discord.gg/Rpm76NdN5J">https://discord.gg/Rpm76NdN5J</a>!</p>
+                <p>Thank you to all users for your patience and for writing in with feedback! This has helped massively with the improvements in this release.</p>
+                <br>
+                <p>Since TabTab isn't available on the Apple App Store, organic reviews on subreddits and across the internet help massively with TabTab's development and reach. Please consider spreading the word about TabTab if you find it useful!</p>
+                <p>Feel free to join our Discord community at <a href="https://discord.gg/Rpm76NdN5J">https://discord.gg/Rpm76NdN5J</a></p>
+                <p>Thank you again for using TabTab!</p>
             ]]></description>
             <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="65821399" type="application/octet-stream" sparkle:edSignature="SC78pPZ9o2yd2Q+KyStgIH4i1FXymk0UMPNqppOV422dHq3EeWbhZgcDCDnkZYi6DBc3jLRppqyX4BDj13N2DA=="/>
         </item>
