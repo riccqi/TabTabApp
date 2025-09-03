@@ -14,8 +14,7 @@
                 <h3>⚡ Performance Improvements</h3>
                 <ul>
                     <li><strong>6x smaller bundle size</strong> than previous version</li>
-                    <li><strong>Reduced CPU usage</strong> - You should notice TabTab feeling snappier in this update. This update also lays the foundation for further optimisations. Just a note: TabTab checks for window and tab validity, thus occasionally incurs very short CPU spikes (a few ms). Since Activity Monitor samples every 5 seconds (by default), these brief spikes can appear larger than they are in practice, but the total CPU time consumed should not significantly affect your Mac's battery life.</li>
-                </ul>
+                    <li><strong>Reduced CPU usage</strong> - You should notice TabTab feeling snappier in this update. This update also lays the foundation for further optimisations coming in future updates. Just a note: TabTab checks for window and tab validity, which can occasionally result in very short CPU spikes (a few ms). Since Activity Monitor samples every 5 seconds by default, these spikes can appear larger than they are in practice. In reality, the total CPU time consumed is minimal and does not meaningfully affect battery life.</li>                </ul>
                 
                 <h3>🚀 New Features</h3>
                 <ul>
@@ -33,7 +32,7 @@
                 </ul>
 
                 <h3>❤️ Thank You</h3>
-                <p>Thanks for continously sharing your feedback! I take time to consider all the suggestions.</p>  
+                <p>Thanks for continously sharing your feedback! I take time to read and reply to every suggestion.</p>  
                 <p>Since TabTab isn't on the App Store, organic reviews on subreddits and across the internet make a huge difference. Please consider spreading the word about TabTab if you find it useful!</p>
                 <p>Feel free to join our Discord community at <a href="https://discord.gg/Rpm76NdN5J">https://discord.gg/Rpm76NdN5J</a></p>
                 <p>Thank you for using TabTab!</p>
