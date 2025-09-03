@@ -14,7 +14,7 @@
                 <h3>⚡ Performance Improvements</h3>
                 <ul>
                     <li><strong>6x smaller bundle size</strong> than previous version</li>
-                    <li><strong>Improved CPU performance</strong> - While TabTab may still show CPU spikes for milliseconds when checking tab validity, these brief spikes are unlikely to significantly impact your battery. More optimizations coming in future updates.</li>
+                    <li><strong>Reduced CPU usage</strong> - You should notice TabTab feeling snappier in this update. This update also lays the foundation for further optimisations to reduce CPU usage. Just a note: While TabTab may still show CPU spikes for milliseconds when checking if your tabs are valid, these brief spikes are unlikely to significantly impact your battery.</li>
                 </ul>
                 
                 <h3>🚀 New Features</h3>
