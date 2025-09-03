@@ -13,7 +13,8 @@
 
                 <h3>🚀 New Features</h3>
                 <ul>
-                    <li><strong>Instant search mode</strong> - Search mode now immediately activates when you type letters, even while holding Option or Command (excluding reserved characters w and q)</li>
+                    <li><strong>Browser favicons on the primary layer</strong> - The favicons for browser tabs now show up beside the app icon, even in search mode</li>
+                    <li><strong>Instant search by typing</strong> - Search mode now immediately activates when you type letters (no longer just limited to pressing Enter), even while holding Option or Command (excluding reserved characters w and q)</li>
                     <li><strong>Enhanced app launcher</strong> - Added missing apps to the app launcher functionality, including Finder and Keychain</li>
                 </ul>
 
