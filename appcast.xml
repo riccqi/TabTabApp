@@ -20,6 +20,7 @@
                 <h3>⚡ Performance Improvements</h3>
                 <ul>
                     <li><strong>6x smaller bundle size</strong> than previous version</li>
+                    <li><strong>Reduced CPU usage</strong> - You should notice TabTab feeling snappier in this update. This update also lays the foundation for further optimisations coming in future updates.</li>
                     <p style="margin-left: 1.5em;">
                         Just a note: TabTab checks for window and tab validity, which can occasionally result in very short CPU spikes (a few ms). Since Activity Monitor samples every 5 seconds by default, these spikes can appear larger than they are in practice. In reality, the battery life will not be significantly affected by the CPU usage.
                     </p>
