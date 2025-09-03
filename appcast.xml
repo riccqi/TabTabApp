@@ -10,17 +10,18 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>TabTab 2.0.1 - Performance & Polish Update</h2>
-                
-                <h3>⚡ Performance Improvements</h3>
-                <ul>
-                    <li><strong>6x smaller bundle size</strong> than previous version</li>
-                    <li><strong>Reduced CPU usage</strong> - You should notice TabTab feeling snappier in this update. This update also lays the foundation for further optimisations coming in future updates. Just a note: TabTab checks for window and tab validity, which can occasionally result in very short CPU spikes (a few ms). Since Activity Monitor samples every 5 seconds by default, these spikes can appear larger than they are in practice. In reality, the total CPU time consumed is minimal and does not meaningfully affect battery life.</li>                </ul>
-                
+
                 <h3>🚀 New Features</h3>
                 <ul>
                     <li><strong>Instant search mode</strong> - Search mode now immediately activates when you type letters, even while holding Option or Command (excluding reserved characters w and q)</li>
                     <li><strong>Enhanced app launcher</strong> - Added missing apps to the app launcher functionality, including Finder and Keychain</li>
                 </ul>
+
+                <h3>⚡ Performance Improvements</h3>
+                <ul>
+                    <li><strong>6x smaller bundle size</strong> than previous version</li>
+                    <li><strong>Reduced CPU usage</strong> - You should notice TabTab feeling snappier in this update. This update also lays the foundation for further optimisations coming in future updates. Just a note: TabTab checks for window and tab validity, which can occasionally result in very short CPU spikes (a few ms). Since Activity Monitor samples every 5 seconds by default, these spikes can appear larger than they are in practice. In reality, the total CPU time consumed is minimal and does not meaningfully affect battery life.</li>                </ul>
+                
                 
                 <h3>🐛 Bug Fixes</h3>
                 <ul>
