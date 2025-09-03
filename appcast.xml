@@ -14,7 +14,7 @@
                 <h3>🚀 New Features</h3>
                 <ul>
                     <li><strong>Browser favicons on the primary layer</strong> - The favicons for browser tabs now show up beside the app icon, even in search mode (Not supported on Firefox due to technical limitations)</li>
-                    <li><strong>Instant search by typing</strong> - Search mode now immediately activates when you type letters (no longer just limited to pressing Enter), even while holding Option or Command (excluding reserved characters w and q)</li>
+                    <li><strong>Instant search by typing</strong> - Search mode now immediately activates when you type letters (no longer just limited to pressing Enter), even while holding Option or Command. Exceptions to this are the reserved characters w and q</li>
                     <li><strong>Enhanced app launcher</strong> - Added missing apps to the app launcher functionality, including Finder and Keychain</li>
                 </ul>
 
@@ -23,7 +23,7 @@
                     <li><strong>6x smaller bundle size</strong> than previous version</li>
                     <li><strong>Reduced CPU usage</strong> - You should notice TabTab feeling snappier in this update. This update also lays the foundation for further optimisations coming in future updates.</li>
                     <p style="margin-left: 1em;">
-                        Just a note: TabTab checks for window and tab validity, which can occasionally result in very short CPU spikes (a few ms). Since Activity Monitor samples every 5 seconds by default, these spikes can appear larger than they are in practice. In reality, the battery life will not be significantly affected by the CPU usage.
+                        Just a note: TabTab checks for window and tab validity, which can occasionally result in very short CPU spikes (a few ms). Since Activity Monitor samples every 5 seconds by default, these spikes can appear larger than they are in practice. In reality, the battery life will not be significantly affected by the CPU time as reported by Activity Monitor.
                     </p>
                 </ul>
                 
