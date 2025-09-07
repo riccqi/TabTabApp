@@ -8,6 +8,7 @@
             <sparkle:version>86</sparkle:version>
             <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
             <description><![CDATA[
                 <h2>TabTab 2.0.2 - Hotfixes</h2>
 
