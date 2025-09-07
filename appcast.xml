@@ -19,18 +19,23 @@
                 <br>
 
                 <h2>TabTab 2.0.1 - Performance & Polish Update</h2>
-                
+
+                <h3>🚀 New Features</h3>
+                <ul>
+                    <li><strong>Browser favicons on the primary layer</strong> - The favicons for browser tabs now show up beside the app icon, even in search mode (Not supported on Firefox due to technical limitations)</li>
+                    <li><strong>Instant search by typing</strong> - Search mode now immediately activates when you type letters (no longer just limited to pressing Enter), even while holding Option or Command. Exceptions to this are the reserved characters w and q</li>
+                    <li><strong>Enhanced app launcher</strong> - Added missing apps to the app launcher functionality, including Finder and Keychain</li>
+                </ul>
+
                 <h3>⚡ Performance Improvements</h3>
                 <ul>
                     <li><strong>6x smaller bundle size</strong> than previous version</li>
-                    <li><strong>Improved CPU performance</strong> - While TabTab may still show CPU spikes for milliseconds when checking tab validity, these brief spikes are unlikely to significantly impact your battery. More optimizations coming in future updates.</li>
+                    <li><strong>Reduced CPU usage</strong> - You should notice TabTab feeling snappier in this update. This update also lays the foundation for further optimisations coming in future updates.</li>
+                    <p style="margin-left: 1em;">
+                        Just a note: TabTab checks for window and tab validity, which can occasionally result in very short CPU spikes (a few ms). Since Activity Monitor samples every 5 seconds by default, these spikes can appear larger than they are in practice. In reality, the battery life will not be significantly affected by the CPU time as reported by Activity Monitor.
+                    </p>
                 </ul>
                 
-                <h3>🚀 New Features</h3>
-                <ul>
-                    <li><strong>Instant search mode</strong> - Search mode now immediately activates when you type letters, even while holding Option or Command (excluding reserved characters w and q)</li>
-                    <li><strong>Enhanced app launcher</strong> - Added missing apps to the app launcher functionality, including Finder and Keychain</li>
-                </ul>
                 
                 <h3>🐛 Bug Fixes</h3>
                 <ul>
@@ -42,10 +47,12 @@
                 </ul>
 
                 <h3>❤️ Thank You</h3>
-                <p>Once again, thanks for continously sharing your feedback! I take time to consider all the suggestions.</p>  
+                <p>Thanks for continously sharing your feedback! I take time to read and reply to every suggestion.</p>  
                 <p>Since TabTab isn't on the App Store, organic reviews on subreddits and across the internet make a huge difference. Please consider spreading the word about TabTab if you find it useful!</p>
-                <p>Feel free to join our Discord community at <a href="https://discord.gg/Rpm76NdN5J">https://discord.gg/Rpm76NdN5J</a></p>
+                <p>Feel free to <a href="https://discord.gg/Rpm76NdN5J">join our Discord community</a>.</p>
                 <p>Thank you for using TabTab!</p>
+
+                <br>
 
                 <h2>Recap: TabTab 2.0 - The Biggest Update Yet</h2>
                 
