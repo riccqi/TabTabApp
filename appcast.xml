@@ -3,101 +3,34 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>2.0.2</title>
-            <pubDate>Sun, 07 Sep 2025 15:36:56 +0800</pubDate>
-            <sparkle:version>86</sparkle:version>
-            <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
+            <title>2.0.3</title>
+            <pubDate>Sat, 25 Oct 2025 16:47:29 +0800</pubDate>
+            <sparkle:version>88</sparkle:version>
+            <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
-            <description><![CDATA[
-                <h2>TabTab 2.0.2 - Hotfixes</h2>
+                        <description><![CDATA[
+                <h2>TabTab 2.0.3 - Speed Improvements, Bug Fixes, Comet and Helium Support! 🎃</h2>
 
                 <ul>
-                    <li>Fixed a bug that caused TabTab to show the wrong tab order when non-Pro users disabled grouped tabs. Sorry about that!</li>
-                    <li>Improved visuals of browser favicons</li>
+                    <li>Added tab tracking support for Comet and Helium browsers.</li>
+                    <li>Disabling/enabling tab tracking should work much better now.</li>
+                    <li>Improved speed of switching between tabs.</li>
+                    <li>Holding down tab to cycle through tabs now align with system keyboard repeat settings.</li>
+                    <li>Mouse activation has been sped up, with a "Insant" option added in settings.</li>
+                    <li>Opening TabTab and dismissing it with "Esc" key now refocuses the previous window.</li>
+                    <li>Some apps were not being tracked when they were opened, this should be fixed now.</li>
                 </ul>
-
-                <br>
-
-                <h2>TabTab 2.0.1 - Performance & Polish Update</h2>
-
-                <h3>🚀 New Features</h3>
-                <ul>
-                    <li><strong>Browser favicons on the primary layer</strong> - The favicons for browser tabs now show up beside the app icon, even in search mode (Not supported on Firefox due to technical limitations)</li>
-                    <li><strong>Instant search by typing</strong> - Search mode now immediately activates when you type letters (no longer just limited to pressing Enter), even while holding Option or Command. Exceptions to this are the reserved characters w and q</li>
-                    <li><strong>Enhanced app launcher</strong> - Added missing apps to the app launcher functionality, including Finder and Keychain</li>
-                </ul>
-
-                <h3>⚡ Performance Improvements</h3>
-                <ul>
-                    <li><strong>6x smaller bundle size</strong> than previous version</li>
-                    <li><strong>Reduced CPU usage</strong> - You should notice TabTab feeling snappier in this update. This update also lays the foundation for further optimisations coming in future updates.</li>
-                    <p style="margin-left: 1em;">
-                        Just a note: TabTab checks for window and tab validity, which can occasionally result in very short CPU spikes (a few ms). Since Activity Monitor samples every 5 seconds by default, these spikes can appear larger than they are in practice. In reality, the battery life will not be significantly affected by the CPU time as reported by Activity Monitor.
-                    </p>
-                </ul>
-                
-                
-                <h3>🐛 Bug Fixes</h3>
-                <ul>
-                    <li><strong>Window layering</strong> - TabTab now always shows up at the top of windows, matching macOS app switcher behavior</li>
-                    <li><strong>Firefox support restored</strong> - Tabs now get tracked for Firefox and Firefox Nightly again</li>
-                    <li><strong>Tab ignoring</strong> - Restored ability to ignore tabs in apps like Chrome and Arc in settings</li>
-                    <li><strong>Shift+Tab works more reliably</strong> - Shift+Tab now correctly cycles tabs backward, even in search mode</li>
-                    <li><strong>Chrome switching</strong> - Much improved tab switching when additional dialog boxes are present</li>
-                </ul>
+                <p>Note: I'm aware that Firefox vertical tab support is broken right now, I'm working on it. Thank you for your patience!</p>
 
                 <h3>❤️ Thank You</h3>
-                <p>Thanks for continously sharing your feedback! I take time to read and reply to every suggestion.</p>  
-                <p>Since TabTab isn't on the App Store, organic reviews on subreddits and across the internet make a huge difference. Please consider spreading the word about TabTab if you find it useful!</p>
+                <p>Keep your feedback and bug reports coming! I take time to read every single one.</p>  
+                <p>Since TabTab isn't on the App Store, organic comments on subreddits or social media help a lot. Do consider spreading the word about TabTab if you find it useful 🫶</p>
                 <p>Feel free to <a href="https://discord.gg/Rpm76NdN5J">join our Discord community</a>.</p>
                 <p>Thank you for using TabTab!</p>
 
                 <br>
-
-                <h2>Recap: TabTab 2.0 - The Biggest Update Yet</h2>
-                
-                <h3>🎨 Fresh New Look</h3>
-                <p>TabTab has a new look to better align with macOS 26. Redesigned icon and website at <a href="https://tabtabapp.net">tabtabapp.net</a></p>
-                
-                <h3>📂 Tabs Grouped by Windows</h3>
-                <p>Many users have said that TabTab doesn't fit naturally into their existing workflows. This feature is a step towards making TabTab more natural to use.</p>
-                <ul>
-                    <li>Tabs are now grouped by default, according to their window. You can click on the number to the right of the tab to see all other tabs in that same window.</li>
-                    <li>When you start searching, TabTab shows all relevant tabs, regardless of their tab groups.</li>
-                    <li>You can also use the left and right arrows to navigate in and out of the new grouped tabs page.</li>
-                    <li>You can turn this off in settings to display all tabs at the same time.</li>
-                </ul>
-                
-                <h3>👨‍🔧 Improved Tab Tracking Reliability</h3>
-                <ul>
-                    <li>Significantly improved tab tracking for many popular browsers: Google Chrome, Safari, Brave, Microsoft Edge.</li>
-                    <li>Arc browser support (finally!!)</li>
-                    <li>Browser favicons are now shown for these browsers in grouped tab mode</li>
-                    <li>You can now search for tabs by their URL in these browsers</li>
-                </ul>
-                
-                <h3>👾 Other Big Improvements</h3>
-                <ul>
-                    <li>All tabs are now registered on startup, you no longer have to click on them before they get added to TabTab.</li>
-                    <li>TabTab now doubles as an app launcher when you search for apps that aren't yet registered.</li>
-                    <li>Redesigned onboarding flow</li>
-                    <li>Redesigned settings</li>
-                    <li>New option in settings to increase width of TabTab</li>
-                </ul>
-                
-                <h3>🐛 Bug Fixes</h3>
-                <ul>
-                    <li>Search box sometimes not getting focused when TabTab is presented</li>
-                    <li>Block notification center from appearing for users using non-English system</li>
-                    <li>Fix CMD+Q and CMD+W to quit apps and windows not working for some users</li>
-                    <li>Fix input into search bar that requires IME confirmation box</li>
-                    <li>Many more fixes</li>
-                </ul>
-                
-                <br>
             ]]></description>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="8444839" type="application/octet-stream" sparkle:edSignature="O1HJ62Q4DDFUo87Uu322RJERZXs6rZKm6+bftcPpyH7Bc5jXrI7qWzznR6NMK/XCStulRDiLCxIYnLKrDkydDQ=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="8420771" type="application/octet-stream" sparkle:edSignature="gKHBj6CpqeOsXoHd8qquReoDmqI89xxRKdsDtDRzP1CLwfszWyWVYkgghONA5aNuUzW8wa2mhZsqME650gO4Cg=="/>
         </item>
     </channel>
 </rss>
