@@ -3,35 +3,32 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>2.0.3</title>
-            <pubDate>Sat, 25 Oct 2025 16:47:29 +0800</pubDate>
-            <sparkle:version>88</sparkle:version>
-            <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
+            <title>2.0.4</title>
+            <pubDate>Mon, 17 Nov 2025 22:58:51 +0800</pubDate>
+            <sparkle:version>93</sparkle:version>
+            <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-                        <description><![CDATA[
-                <h2>TabTab 2.0.3 - Speed Improvements, Bug Fixes, Comet and Helium Support 🎃</h2>
+            <description><![CDATA[
+                <h2>TabTab 2.0.4 - Stability & Polish Update 🪴 </h2>
 
                 <ul>
-                    <li>Added tab tracking support for Comet and Helium browsers.</li>
-                    <li>Disabling/enabling tab tracking should work much better now.</li>
-                    <li>Improved speed of switching between tabs.</li>
-                    <li>Holding down Tab to cycle through tabs now align with system keyboard repeat settings.</li>
-                    <li>Mouse activation has been sped up, with a "Insant" option added in settings.</li>
-                    <li>Opening TabTab and dismissing it with "Esc" key now refocuses the previous window.</li>
-                    <li>Some apps were not being tracked when they were opened, this should be fixed now.</li>
+                    <li>Fixed browser tabs incorrectly jumping to the top of the list</li>
+                    <li>Smoother animations throughout the app</li>
+                    <li>Fixed Firefox vertical tab support</li>
+                    <li>Cmd+A and other modifier key combinations now work correctly in the search bar</li>
+                    <li>TabTab no longer steals focus from other apps</li>
+                    <li>Many smaller bug fixes and improvements!</li>
                 </ul>
-                <p>Note: I'm aware that Firefox vertical tab support is broken right now, I'm working on it. Thank you for your patience!</p>
-                
-                <br>
-                            
-                <h3>Thank You ⭐</h3>
+
+                <h3>❤️ Thank You</h3>
                 <p>Keep your feedback and bug reports coming! I take time to read every single one.</p>  
                 <p>Since TabTab isn't on the App Store, organic comments on subreddits or social media help a lot. Do consider spreading the word about TabTab if you find it useful 🫶</p>
                 <p>Feel free to <a href="https://discord.gg/Rpm76NdN5J">join our Discord community</a>.</p>
+                <p>Thank you for using TabTab!</p>
 
                 <br>
             ]]></description>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="8420771" type="application/octet-stream" sparkle:edSignature="gKHBj6CpqeOsXoHd8qquReoDmqI89xxRKdsDtDRzP1CLwfszWyWVYkgghONA5aNuUzW8wa2mhZsqME650gO4Cg=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="8442777" type="application/octet-stream" sparkle:edSignature="NiUc70zEcxBN3sZVUnU2Z0XESRjB5R73+2R/rQiB/WE1Zm9Q1kBIuXE9hc2sZWPXNVhkde6x/psVWezqHUJUCw=="/>
         </item>
     </channel>
 </rss>
