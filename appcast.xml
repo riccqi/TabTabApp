@@ -3,32 +3,40 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>2.0.4</title>
-            <pubDate>Mon, 17 Nov 2025 22:58:51 +0800</pubDate>
-            <sparkle:version>93</sparkle:version>
-            <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
+            <title>2.1</title>
+            <pubDate>Wed, 27 May 2026 22:49:14 -0700</pubDate>
+            <sparkle:version>111</sparkle:version>
+            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h2>TabTab 2.0.4 - Stability & Polish Update 🪴 </h2>
+                <h2>TabTab 2.1 - The refinement update you've been waiting for 🐆 </h2>
 
                 <ul>
-                    <li>Fixed browser tabs incorrectly jumping to the top of the list</li>
+                    <li>Refined the interface with softer corners and a more modern macOS feel</li>
                     <li>Smoother animations throughout the app</li>
-                    <li>Fixed Firefox vertical tab support</li>
-                    <li>Cmd+A and other modifier key combinations now work correctly in the search bar</li>
-                    <li>TabTab no longer steals focus from other apps</li>
-                    <li>Many smaller bug fixes and improvements!</li>
+                    <li>Added support for Dia Browser</li>
+                    <li>Fixed an issue that could repeatedly deactivate licenses for some users</li>
+                    <li>Added a larger font size option in settings</li>
+                    <li>Made tab switching and hover interactions much faster, with broader improvements to speed and battery efficiency</li>
+                    <li>Polished mouse activation so TabTab now dismisses automatically when your cursor leaves the active area</li>
+                    <li>Added an option to group tabs by app instead of by window, giving TabTab a more app-switcher-like feel</li>
+                    <li>Apps without visible windows now appear in TabTab by default, with a setting to turn this off</li>
+                    <li>Fixed missing app icons for some apps</li>
+                    <li>Keeping the TabTab settings window open no longer interferes with window switching</li>
+                    <li>Added an option to disable the ripple animation for better performance on older Macs</li>
+                    <li>Fixed switching between apps that share the same name</li>
+                    <li>Restored Figma tabs support</li>
                 </ul>
 
                 <h3>❤️ Thank You</h3>
-                <p>Keep your feedback and bug reports coming! I take time to read every single one.</p>  
-                <p>Since TabTab isn't on the App Store, organic comments on subreddits or social media help a lot. Do consider spreading the word about TabTab if you find it useful 🫶</p>
+                <p>Your feedback and bug reports continue to shape TabTab. I read every single one!</p>
+                <p>Since TabTab is not on the App Store, organic comments on subreddits or social media help a lot. Do consider spreading the word about TabTab if you find it useful 🫶</p>
                 <p>Feel free to <a href="https://discord.gg/Rpm76NdN5J">join our Discord community</a>.</p>
                 <p>Thank you for using TabTab!</p>
 
                 <br>
             ]]></description>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="8442777" type="application/octet-stream" sparkle:edSignature="NiUc70zEcxBN3sZVUnU2Z0XESRjB5R73+2R/rQiB/WE1Zm9Q1kBIuXE9hc2sZWPXNVhkde6x/psVWezqHUJUCw=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="9754542" type="application/octet-stream" sparkle:edSignature="IppQswdRSkEUMmRX9bjpB4YnFjyRZnGsumthE3N1isyFit9FZvtXff6VyC9AAml7aeYORdHBld0hidWPmT1VDQ=="/>
         </item>
     </channel>
 </rss>
