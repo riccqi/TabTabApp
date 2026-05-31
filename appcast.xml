@@ -3,13 +3,24 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>2.1</title>
-            <pubDate>Wed, 27 May 2026 22:49:14 -0700</pubDate>
-            <sparkle:version>111</sparkle:version>
-            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <title>2.1.1</title>
+            <pubDate>Sat, 30 May 2026 17:20:42 -0700</pubDate>
+            <sparkle:version>116</sparkle:version>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h2>TabTab 2.1 - The refinement update you've been waiting for 🐆 </h2>
+                <h2>TabTab 2.1.1 - Sort tabs by alphabetic order, better favicons, and more!</h2>
+
+                <ul>
+                    <li>Made hovering over items faster and more reliable</li>
+                    <li>Added a new option to sort tabs by alphabetic order</li>
+                    <li>Improved favicon support across more tabs and websites</li>
+                    <li>Added anti-aliasing to make TabTab corners look smoother</li>
+                    <li>Improved switching behaviour when Picture-in-Picture windows are active</li>
+                    <li>Improved the onboarding experience</li>
+                </ul>
+
+                <h3>TabTab 2.1 - The refinement update you have been waiting for 🐆 </h3>
 
                 <ul>
                     <li>Refined the interface with softer corners and a more modern macOS feel</li>
@@ -36,7 +47,7 @@
 
                 <br>
             ]]></description>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="9754542" type="application/octet-stream" sparkle:edSignature="IppQswdRSkEUMmRX9bjpB4YnFjyRZnGsumthE3N1isyFit9FZvtXff6VyC9AAml7aeYORdHBld0hidWPmT1VDQ=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="9785712" type="application/octet-stream" sparkle:edSignature="6yePj9JpYqNiEijasa2i/PLjWI/E5dYkLOc59QlXiHiT+g85NnKsVZG1B5szrInlPJWTLsJlh2HVhuvbI/Q1BA=="/>
         </item>
     </channel>
 </rss>
