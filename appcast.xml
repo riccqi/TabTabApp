@@ -3,51 +3,26 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>2.1.1</title>
-            <pubDate>Sat, 30 May 2026 17:20:42 -0700</pubDate>
-            <sparkle:version>116</sparkle:version>
-            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <title>2.1.2</title>
+            <pubDate>Tue, 28 Jul 2026 00:30:43 -0700</pubDate>
+            <sparkle:version>122</sparkle:version>
+            <sparkle:shortVersionString>2.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h2>TabTab 2.1.1 - Sort tabs by alphabetic order, better favicons, and more!</h2>
+                <h2>TabTab 2.1.2 - Faster and more reliable</h2>
 
                 <ul>
-                    <li>Made hovering over items faster and more reliable</li>
-                    <li>Added a new option to sort tabs by alphabetic order</li>
-                    <li>Improved favicon support across more tabs and websites</li>
-                    <li>Added anti-aliasing to make TabTab corners look smoother</li>
-                    <li>Improved switching behaviour when Picture-in-Picture windows are active</li>
-                    <li>Improved the onboarding experience</li>
+                    <li>Made switching to browser tabs much faster, even while TabTab is refreshing in the background</li>
+                    <li>Made tab lists and search more responsive</li>
+                    <li>Fixed stale browser tabs lingering after a window was closed or a browser was quit</li>
+                    <li>Improved reliability when switching to or closing browser tabs and windows</li>
                 </ul>
 
-                <h3>TabTab 2.1 - The refinement update you have been waiting for 🐆 </h3>
-
-                <ul>
-                    <li>Refined the interface with softer corners and a more modern macOS feel</li>
-                    <li>Smoother animations throughout the app</li>
-                    <li>Added support for Dia Browser</li>
-                    <li>Fixed an issue that could repeatedly deactivate licenses for some users</li>
-                    <li>Added a larger font size option in settings</li>
-                    <li>Made tab switching and hover interactions much faster, with broader improvements to speed and battery efficiency</li>
-                    <li>Polished mouse activation so TabTab now dismisses automatically when your cursor leaves the active area</li>
-                    <li>Added an option to group tabs by app instead of by window, giving TabTab a more app-switcher-like feel</li>
-                    <li>Apps without visible windows now appear in TabTab by default, with a setting to turn this off</li>
-                    <li>Fixed missing app icons for some apps</li>
-                    <li>Keeping the TabTab settings window open no longer interferes with window switching</li>
-                    <li>Added an option to disable the ripple animation for better performance on older Macs</li>
-                    <li>Fixed switching between apps that share the same name</li>
-                    <li>Restored Figma tabs support</li>
-                </ul>
-
-                <h3>❤️ Thank You</h3>
-                <p>Your feedback and bug reports continue to shape TabTab. I read every single one!</p>
-                <p>Since TabTab is not on the App Store, organic comments on subreddits or social media help a lot. Do consider spreading the word about TabTab if you find it useful 🫶</p>
-                <p>Feel free to <a href="https://discord.gg/Rpm76NdN5J">join our Discord community</a>.</p>
-                <p>Thank you for using TabTab!</p>
+                <p>Thanks for using TabTab! ❤️</p>
 
                 <br>
             ]]></description>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="9785712" type="application/octet-stream" sparkle:edSignature="6yePj9JpYqNiEijasa2i/PLjWI/E5dYkLOc59QlXiHiT+g85NnKsVZG1B5szrInlPJWTLsJlh2HVhuvbI/Q1BA=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="9908260" type="application/octet-stream" sparkle:edSignature="q1sUOuyJmMev50rYQPmIVYdS3cOae8fuTwplwjB8AfPaQrZQGjj5dQJrpAHZ80FB3wJSfiWTHkaOKkkWnGO/CQ=="/>
         </item>
     </channel>
 </rss>
