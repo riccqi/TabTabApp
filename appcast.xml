@@ -8,6 +8,7 @@
             <sparkle:version>137</sparkle:version>
             <sparkle:shortVersionString>2.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:criticalUpdate/>
             <description><![CDATA[<h2>TabTab 2.1.3 – Speed and Stability</h2>
 
 <ul>
@@ -24,28 +25,6 @@
 <br>
 ]]></description>
             <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="10090178" type="application/octet-stream" sparkle:edSignature="CibY08ycjYE+CLhgIGej1pQZ+I44ih00cJe3MFHzoe0vfNZdjj/DmCSV9qPk2LUVEL44ou1q+s1kKDnQqJg1Aw=="/>
-        </item>
-        <item>
-            <title>2.1.2</title>
-            <pubDate>Tue, 28 Jul 2026 00:30:43 -0700</pubDate>
-            <sparkle:version>122</sparkle:version>
-            <sparkle:shortVersionString>2.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>TabTab 2.1.2 - Faster and more reliable</h2>
-
-                <ul>
-                    <li>Made switching to browser tabs much faster, even while TabTab is refreshing in the background</li>
-                    <li>Made tab lists and search more responsive</li>
-                    <li>Fixed stale browser tabs lingering after a window was closed or a browser was quit</li>
-                    <li>Improved reliability when switching to or closing browser tabs and windows</li>
-                </ul>
-
-                <p>Thanks for using TabTab! ❤️</p>
-
-                <br>
-            ]]></description>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="9908260" type="application/octet-stream" sparkle:edSignature="q1sUOuyJmMev50rYQPmIVYdS3cOae8fuTwplwjB8AfPaQrZQGjj5dQJrpAHZ80FB3wJSfiWTHkaOKkkWnGO/CQ=="/>
         </item>
     </channel>
 </rss>
