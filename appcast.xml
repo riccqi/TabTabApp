@@ -3,6 +3,29 @@
     <channel>
         <title>TabTab</title>
         <item>
+            <title>2.1.3</title>
+            <pubDate>Wed, 19 Aug 2026 22:25:48 -0700</pubDate>
+            <sparkle:version>137</sparkle:version>
+            <sparkle:shortVersionString>2.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>TabTab 2.1.3 – Speed and Stability</h2>
+
+<ul>
+    <li>Made the switcher faster to present and hide when activating apps. Apps are also brought to the front more quickly</li>
+    <li>Improved tab tracking and cleanup so closed, stale, and newly opened tabs stay in sync more reliably</li>
+    <li>Expanded tab tracking across Chrome and Microsoft Edge Dev, Beta, and Canary channels, with Firefox Developer Edition support too</li>
+    <li>Fixed occasionally missing Safari tabs</li>
+    <li>Improved favicon loading and fixed additional app and tab icon issues</li>
+    <li>More polish and stability improvements</li>
+</ul>
+
+<p>Thanks for using TabTab! ❤️</p>
+
+<br>
+]]></description>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="10090178" type="application/octet-stream" sparkle:edSignature="CibY08ycjYE+CLhgIGej1pQZ+I44ih00cJe3MFHzoe0vfNZdjj/DmCSV9qPk2LUVEL44ou1q+s1kKDnQqJg1Aw=="/>
+        </item>
+        <item>
             <title>2.1.2</title>
             <pubDate>Tue, 28 Jul 2026 00:30:43 -0700</pubDate>
             <sparkle:version>122</sparkle:version>
