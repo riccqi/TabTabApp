@@ -3,27 +3,25 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>2.2</title>
-            <pubDate>Tue, 08 Sep 2026 22:39:28 -0700</pubDate>
-            <sparkle:version>146</sparkle:version>
-            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+            <title>2.2.1</title>
+            <pubDate>Sun, 11 Oct 2026 12:04:25 -0700</pubDate>
+            <sparkle:version>156</sparkle:version>
+            <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>TabTab 2.2 – A fresh look and smoother switching</h2>
+            <description><![CDATA[<h2>TabTab 2.2.1 – Better tab groupings</h2>
 
 <ul>
-    <li>Mouse activation has been reworked to expose a handle before expansion</li>
-    <li>Added a new setting to show only windows and tabs on the active Space</li>
-    <li>Improved reliability for browser tab tracking</li>
-    <li>Fixed favicons getting out of sync when navigating between websites or reordering tabs</li>
-    <li>Added standard keyboard shortcuts for Settings and Quit, and fixed a crash when opening Settings through TabTab</li>
-    <li>Redesigned Settings, inspired by Alcove!</li>
+    <li>Added grouping for native macOS tabs in apps like Finder and Preview</li>
+    <li>Added an Open on hover setting to open TabTab from the screen edge without clicking</li>
+    <li>speed and stability improvements</li>
 </ul>
 
 <p>Thanks for using TabTab! ❤️</p>
+<p>If you have any feedback, <a href="https://discord.gg/Rpm76NdN5J">join our Discord</a> and let us know!</p>
 
 <br>
 ]]></description>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="10162910" type="application/octet-stream" sparkle:edSignature="nuI9vYnM+lPlap5dW0GWmRVBqQnIn0gZDJR/mKPHr7woHc0jecOLJtGoJ6Ek38KErJlOdPT1t9msyODIZfp4DQ=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="10170745" type="application/octet-stream" sparkle:edSignature="H7QDeIP83DaswVA573I3oUwCJkNF0RQvL7AJf1CH0FSTyHSIGX+htZeASe23k12i1aQP/2fEhc1tgB3EXlziDw=="/>
         </item>
     </channel>
 </rss>
