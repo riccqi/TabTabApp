@@ -4,8 +4,8 @@
         <title>TabTab</title>
         <item>
             <title>2.2.3</title>
-            <pubDate>Sat, 31 Oct 2026 13:57:03 -0700</pubDate>
-            <sparkle:version>165</sparkle:version>
+            <pubDate>Sat, 31 Oct 2026 17:54:52 -0700</pubDate>
+            <sparkle:version>167</sparkle:version>
             <sparkle:shortVersionString>2.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>TabTab 2.2.3 – Bug fixes</h2>
@@ -21,7 +21,7 @@
 
 <br>
 ]]></description>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="10308422" type="application/octet-stream" sparkle:edSignature="DYH7aImUn/8ATRVsBLvcYj6vFerj8sn3LTWZovh8xeZifDmANw4gTlbaeF8wGVc9Ee949pnC/KXwkugmh8rpCQ=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="10306387" type="application/octet-stream" sparkle:edSignature="l0H43QbeYUpuXo53rLkry6GhCcJimXT3BSOgtSGoOSKWdZ1Zm5PQRlwqgLlQ4BAEV+i+WfxIv5CK2l2zhG/fDQ=="/>
         </item>
     </channel>
 </rss>
