@@ -3,17 +3,21 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>2.2.3</title>
-            <pubDate>Sat, 31 Oct 2026 17:54:52 -0700</pubDate>
-            <sparkle:version>167</sparkle:version>
-            <sparkle:shortVersionString>2.2.3</sparkle:shortVersionString>
+            <title>2.2.4</title>
+            <pubDate>Mon, 02 Nov 2026 22:38:21 -0800</pubDate>
+            <sparkle:version>171</sparkle:version>
+            <sparkle:shortVersionString>2.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>TabTab 2.2.3 – Bug fixes</h2>
+            <sparkle:criticalUpdate/>
+            <description><![CDATA[<h2>TabTab 2.2.4 – Polish and fixes</h2>
 
 <ul>
-    <li>Fixed Command-Q and Command-W not working while searching</li>
-    <li>Fixed switcher entries lingering after closing windows or quitting apps, or disappearing when those actions were cancelled</li>
-    <li>Improved browser tab switching reliability and fixed incorrect tab ordering and selection when page titles keep changing, such as on YouTube</li>
+    <li>New menu bar icon</li>
+    <li>Added tab support for Rex Beta</li>
+    <li>Renamed tabs now show their latest title and switch to the right tab</li>
+    <li>Improved bringing Chrome, Safari and Edge windows to the front</li>
+    <li>Pro users no longer see the trial window briefly while their license is being checked</li>
+    <li>TabTab now collects even less anonymous usage data</li>
 </ul>
 
 <p>Thanks for using TabTab! ❤️</p>
@@ -21,7 +25,7 @@
 
 <br>
 ]]></description>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="10306387" type="application/octet-stream" sparkle:edSignature="l0H43QbeYUpuXo53rLkry6GhCcJimXT3BSOgtSGoOSKWdZ1Zm5PQRlwqgLlQ4BAEV+i+WfxIv5CK2l2zhG/fDQ=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="10399419" type="application/octet-stream" sparkle:edSignature="EzrNDJxSqqtNBb1oiqAqAPfeInr55IjMjqz3dk0m5BHv0tJ/ksTZ+Y/OPACf8RDEI0cQDX1kLT9YZnGbpD53DA=="/>
         </item>
     </channel>
 </rss>
