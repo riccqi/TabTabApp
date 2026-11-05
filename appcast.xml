@@ -3,19 +3,18 @@
     <channel>
         <title>TabTab</title>
         <item>
-            <title>2.2.4</title>
-            <pubDate>Mon, 02 Nov 2026 22:38:21 -0800</pubDate>
-            <sparkle:version>171</sparkle:version>
-            <sparkle:shortVersionString>2.2.4</sparkle:shortVersionString>
+            <title>2.2.5</title>
+            <pubDate>Thu, 05 Nov 2026 15:45:29 -0800</pubDate>
+            <sparkle:version>180</sparkle:version>
+            <sparkle:shortVersionString>2.2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
-            <description><![CDATA[<h2>TabTab 2.2.4 – Polish and fixes</h2>
+            <description><![CDATA[<h2>TabTab 2.2.5 – Polish and fixes</h2>
 
 <ul>
-    <li>New menu bar icon</li>
-    <li>Added tab support for Rex Beta</li>
-    <li>Renamed tabs now show their latest title and switch to the right tab</li>
-    <li>Improved bringing Chrome, Safari and Edge windows to the front</li>
+    <li>Refreshed setup experience</li>
+    <li>Improved tab switching reliability in edge cases</li>
+    <li>Fixed issues with vertical tabs in Rex</li>
 </ul>
 
 <p>Thanks for using TabTab! ❤️</p>
@@ -23,7 +22,7 @@
 
 <br>
 ]]></description>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="10399419" type="application/octet-stream" sparkle:edSignature="EzrNDJxSqqtNBb1oiqAqAPfeInr55IjMjqz3dk0m5BHv0tJ/ksTZ+Y/OPACf8RDEI0cQDX1kLT9YZnGbpD53DA=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="10522325" type="application/octet-stream" sparkle:edSignature="Og+7KyrvXGDT9EhFCOJwPCjNk/r8VQ22v1o1HGGdwD/VnmUfIoI9j/iT9AdgjIm+EFqRrxDhzTCkodgLew7nCQ=="/>
         </item>
     </channel>
 </rss>
