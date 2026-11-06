@@ -4,8 +4,8 @@
         <title>TabTab</title>
         <item>
             <title>2.2.5</title>
-            <pubDate>Thu, 05 Nov 2026 15:45:29 -0800</pubDate>
-            <sparkle:version>180</sparkle:version>
+            <pubDate>Thu, 05 Nov 2026 17:02:36 -0800</pubDate>
+            <sparkle:version>181</sparkle:version>
             <sparkle:shortVersionString>2.2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
@@ -22,7 +22,7 @@
 
 <br>
 ]]></description>
-            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="10522325" type="application/octet-stream" sparkle:edSignature="Og+7KyrvXGDT9EhFCOJwPCjNk/r8VQ22v1o1HGGdwD/VnmUfIoI9j/iT9AdgjIm+EFqRrxDhzTCkodgLew7nCQ=="/>
+            <enclosure url="https://github.com/riccqi/TabTabApp/releases/download/prod/tabtab.dmg" length="10521787" type="application/octet-stream" sparkle:edSignature="teQVGKG+1zl4IRKjPHqsxPrdiSRmLztwfgdiYkiGzdfJf9gofS2BuZEjjGvSc23I/zzoI07snX9vFhtPeg17Bw=="/>
         </item>
     </channel>
 </rss>
