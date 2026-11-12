@@ -13,9 +13,8 @@
 <ul>
     <li>Improved grouping of native tabs in apps like Terminal and Preview.</li>
     <li>Closing a background tab now updates its group right away.</li>
-    <li>Fixed tab search matching every tab in a window on the selected tab's name.</li>
-    <li>Browser tabs without a page title now show their URL.</li>
-    <li>Fixed a rare crash and improved stability.</li>
+    <li>Improved tab searching.</li>
+    <li>Fixed occasional crashes and improved stability.</li>
 </ul>
 
 <p>Thanks for using TabTab! ❤️</p>
